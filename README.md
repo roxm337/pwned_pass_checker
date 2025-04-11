@@ -26,9 +26,9 @@ git clone https://github.com/roxm337/pwned_pass_checker.git
 cd pwned_pass_checker
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
-
+```
 🧪 Usage
-
+```
 🔸 Single password (secure prompt)
 python main.py --prompt
 
@@ -40,9 +40,9 @@ python main.py -p admin123 welcome123 --csv results.csv
 
 🔸 Export results to CSV
 python main.py -p admin123 welcome123 --csv results.csv
+```
 
-
-👨‍💻 Author
+## 👨‍💻 Author
 
 r10xM37 – Ethical Hacking & Security Automation
 
