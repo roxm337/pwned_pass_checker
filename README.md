@@ -22,7 +22,7 @@ A CLI tool to check if your password(s) have been exposed in known data breaches
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/secure-password-checker.git
+git clone https://github.com/roxm337/pwned_pass_checker.git
 cd secure-password-checker
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
