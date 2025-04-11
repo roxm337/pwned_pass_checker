@@ -23,7 +23,7 @@ A CLI tool to check if your password(s) have been exposed in known data breaches
 
 ```bash
 git clone https://github.com/roxm337/pwned_pass_checker.git
-cd secure-password-checker
+cd pwned_pass_checker
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 
@@ -41,20 +41,6 @@ python main.py -p admin123 welcome123 --csv results.csv
 🔸 Export results to CSV
 python main.py -p admin123 welcome123 --csv results.csv
 
-🤝 Contributing
-
-Pull requests are welcome! To contribute:
-
-Fork the repo
-Create a new branch (git checkout -b feature/new-feature)
-Commit your changes
-Push and open a pull request
-Ideas for future improvements:
-
-Local database of breached passwords
-Password strength scoring (zxcvbn or entropy-based)
-GUI or web-based version
-Docker container
 
 👨‍💻 Author
 
