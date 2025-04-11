@@ -58,6 +58,6 @@ Docker container
 
 👨‍💻 Author
 
-[Your Name] – Ethical Hacking & Security Automation
+r10xM37 – Ethical Hacking & Security Automation
 
 GitHub: @r10xM37
